@@ -5,9 +5,10 @@ A Todo App made using Firebase and Kotlin
 
 * Firebase Real Time database
 * Firebase Cloud Messaging
-* Furebase Analytics 
+* Firebase Analytics 
 * Kotlin
 
 ### App-Screens
 
-<img src="appscreens/1.png" width="225" height="400"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="appscreens/2.png" width="225" height="400">
+<img src="appscreens/1.png" width="225" height="400"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="appscreens/2.png" width="225" height="400"> </br>
+Made by Siddhant in :heart:  with **</>**
