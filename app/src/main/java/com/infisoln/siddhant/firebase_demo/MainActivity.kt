@@ -9,6 +9,7 @@ import android.util.Log
 import android.util.Log.e
 import android.widget.Button
 import android.widget.EditText
+import com.crashlytics.android.Crashlytics
 import com.firebase.ui.auth.AuthUI
 import com.firebase.ui.auth.ErrorCodes
 import com.firebase.ui.auth.IdpResponse
@@ -39,7 +40,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         FirebaseApp.initializeApp(this)
-
+//        Crashlytics.getInstance().crash();
 
         recyclerView = findViewById(R.id.recyclerView)
         etNote = findViewById(R.id.etNote)
